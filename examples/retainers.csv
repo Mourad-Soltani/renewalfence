@@ -1,0 +1,4 @@
+client,agreement,renewal_date,notice_days,auto_renew,monthly_value,owner_email
+North Studio,Brand retainer,2026-10-20,14,yes,1800,ada@north.example
+South Co,Care plan,2026-11-10,14,yes,900,lee@south.example
+Old Client,Archive,2026-09-01,7,no,400,old@example.com
